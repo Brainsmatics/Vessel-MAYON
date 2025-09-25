@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25b3e18f-f2bb-41e5-b04a-fe17c29a756d" name="更改" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/dynamic-network-architectures" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer/B.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer/bdc.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer/nnUNetTrainerbdc.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer/nnUNetTrainerrawlight.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer/nnUNetTrainerskip2.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer/rawlight.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PerforceDirect.Settings">
+    <option name="CHARSET" value="无" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2Znd1GV5lI6Z89KUNqJUUFWW0kY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.0000fix.executor&quot;: &quot;Run&quot;,
+    &quot;Python.022 Haar小波下采样模块（1区Top）.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.111.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5_zhibiao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dataset120_RoadSegmentation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.KAN.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SAR.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SAR1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SAR2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SAR3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SAR4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task123_Axon.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task413_fiberbundle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task456_fiber-bundle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.baseline.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bdc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.changename.executor&quot;: &quot;Run&quot;,
+    &quot;Python.checkinch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.checknew.executor&quot;: &quot;Run&quot;,
+    &quot;Python.convert_raw_dataset_from_old_nnunet_format (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.convert_raw_dataset_from_old_nnunet_format.executor&quot;: &quot;Run&quot;,
+    &quot;Python.create_model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dlk.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fenghe1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fenghe2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fenghe2light.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fenghe3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ffmca.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hd.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hd1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hd2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hd3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hd4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.jaccardzhibiao0821.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kannet - 副本.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kannet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mayon.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mhatonii.executor&quot;: &quot;Run&quot;,
+    &quot;Python.model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.newzhibiao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.newzhibiao1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.newzhibiao2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.newzhibiao3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.newzhibiao4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.newzhibiao5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.niigz_normalization.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nnUNetTrainer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nnUNetTrainerfenghe3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.paths.executor&quot;: &quot;Run&quot;,
+    &quot;Python.predict_from_raw_data (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.predict_from_raw_data - v8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.predict_from_raw_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.printmodel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.raw.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rawdeep.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rawlight.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rawnet - 副本 - 副本.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rawnet - 副本.executor&quot;: &quot;Run&quot;,
+    &quot;Python.relitu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.run_training.executor&quot;: &quot;Run&quot;,
+    &quot;Python.setup.executor&quot;: &quot;Run&quot;,
+    &quot;Python.snake.executor&quot;: &quot;Run&quot;,
+    &quot;Python.swin.executor&quot;: &quot;Run&quot;,
+    &quot;Python.swin3d.executor&quot;: &quot;Run&quot;,
+    &quot;Python.swink.executor&quot;: &quot;Run&quot;,
+    &quot;Python.swink_nogate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task508_blood vessel (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.task508_blood vessel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.xyznet.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zhibiao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zhibiao0608.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zhibiao0821.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zhibiao2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zhibiao3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zhibiao4.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/wfr/code/nnUNet/nnunetv2/training/nnUNetTrainer&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PythonContentEntriesConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\wfr\code\nnUNet\nnunetv2\training\nnUNetTrainer" />
+      <recent name="K:\wufengrui\wfrenv\codeenv\Lib\site-packages\nnunetv2\training\nnUNetTrainer" />
+      <recent name="E:\wfr\code\nnUNet\dataset\nnUNet_raw" />
+      <recent name="K:\wufengrui\code\nnUNet\dataset\nnUNet_raw" />
+      <recent name="K:\wufengrui\code\nnUNet\dataset\labelts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="K:\wufengrui\wfrenv\codeenv\Lib\site-packages\nnunetv2\training\nnUNetTrainer" />
+      <recent name="E:\wfr\code\nnUNet\dataset\nnUNet_raw" />
+      <recent name="K:\wufengrui\code\nnUNet\dataset\nnUNet_results\Dataset501_Brain\nnUNetTrainer__nnUNetPlans__3d_fullres" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="022 Haar小波下采样模块（1区Top）" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nnUNet" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/022 Haar小波下采样模块（1区Top）.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task123_Axon" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nnUNet" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nnunetv2/dataset_conversion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nnunetv2/dataset_conversion/Task123_Axon.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="create_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nnUNet" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/nnunetv2/training/nnUNetTrainer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/nnunetv2/training/nnUNetTrainer/create_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nnUNet" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../wufengrui/swin_unet" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../wufengrui/swin_unet/model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="raw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nnUNet" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer/raw.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.022 Haar小波下采样模块（1区Top）" />
+        <item itemvalue="Python.create_model" />
+        <item itemvalue="Python.model" />
+        <item itemvalue="Python.raw" />
+        <item itemvalue="Python.Task123_Axon" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-67fca87a943a-c986f194a52a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.11799.259" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="25b3e18f-f2bb-41e5-b04a-fe17c29a756d" name="更改" comment="" />
+      <created>1703061563882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703061563882</updated>
+      <workItem from="1703061566929" duration="1301000" />
+      <workItem from="1703065004335" duration="406000" />
+      <workItem from="1703065420934" duration="46000" />
+      <workItem from="1703065626315" duration="12684000" />
+      <workItem from="1703387232955" duration="182000" />
+      <workItem from="1703396364277" duration="17049000" />
+      <workItem from="1709967082345" duration="29878000" />
+      <workItem from="1712583641147" duration="2749000" />
+      <workItem from="1712587018367" duration="75261000" />
+      <workItem from="1714280984197" duration="934000" />
+      <workItem from="1714356498200" duration="1223000" />
+      <workItem from="1715156127130" duration="19778000" />
+      <workItem from="1715392883246" duration="15521000" />
+      <workItem from="1716472252030" duration="48923000" />
+      <workItem from="1717847454026" duration="36861000" />
+      <workItem from="1720442938396" duration="57000" />
+      <workItem from="1720593116207" duration="1943000" />
+      <workItem from="1720598238160" duration="92443000" />
+      <workItem from="1725505093329" duration="15402000" />
+      <workItem from="1730898760085" duration="2256000" />
+      <workItem from="1740056350235" duration="23598000" />
+      <workItem from="1741865898464" duration="154000" />
+      <workItem from="1741866062886" duration="2483000" />
+      <workItem from="1741868683350" duration="7192000" />
+      <workItem from="1741918072065" duration="397000" />
+      <workItem from="1741918484538" duration="18515000" />
+      <workItem from="1741950591693" duration="1700000" />
+      <workItem from="1741952299254" duration="22836000" />
+      <workItem from="1742202527440" duration="4362000" />
+      <workItem from="1742522560912" duration="4474000" />
+      <workItem from="1742527688876" duration="126531000" />
+      <workItem from="1743309802537" duration="62139000" />
+      <workItem from="1743769995985" duration="32183000" />
+      <workItem from="1744028826123" duration="215000" />
+      <workItem from="1744029047827" duration="574000" />
+      <workItem from="1744029628394" duration="83000" />
+      <workItem from="1744029715882" duration="301000" />
+      <workItem from="1744030021965" duration="24000" />
+      <workItem from="1744030095305" duration="419000" />
+      <workItem from="1744030563951" duration="129224000" />
+      <workItem from="1745743456912" duration="16611000" />
+      <workItem from="1746351442674" duration="35963000" />
+      <workItem from="1748334956400" duration="41857000" />
+      <workItem from="1749115111303" duration="32429000" />
+      <workItem from="1751612627031" duration="45096000" />
+      <workItem from="1752716150489" duration="28188000" />
+      <workItem from="1753793923635" duration="100659000" />
+      <workItem from="1757160569819" duration="215000" />
+      <workItem from="1757160827018" duration="763000" />
+      <workItem from="1757161598481" duration="1064000" />
+      <workItem from="1757162672333" duration="1301000" />
+      <workItem from="1757163988375" duration="29764000" />
+      <workItem from="1757404407790" duration="26566000" />
+      <workItem from="1758527037278" duration="750000" />
+      <workItem from="1758527984260" duration="1025000" />
+      <workItem from="1758530526654" duration="447000" />
+      <workItem from="1758531532760" duration="6000" />
+      <workItem from="1758531851531" duration="762000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/nnUNet$zhibiao4.coverage" NAME="zhibiao4 Coverage Results" MODIFIED="1746600427698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$fenghe2.coverage" NAME="fenghe2 Coverage Results" MODIFIED="1743927588861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$nnUNetTrainerfenghe3.coverage" NAME="nnUNetTrainerfenghe3 Coverage Results" MODIFIED="1744035439523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$predict_from_raw_data__1_.coverage" NAME="predict_from_raw_data (1) 覆盖结果" MODIFIED="1720661786102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../env/nnunet/Lib/site-packages/nnunetv2/inference" />
+    <SUITE FILE_PATH="coverage/nnUNet$setup.coverage" NAME="setup 覆盖结果" MODIFIED="1712587116771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nnUNet$rawnet___.coverage" NAME="rawnet - 副本 Coverage Results" MODIFIED="1742990998127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$relitu.coverage" NAME="relitu Coverage Results" MODIFIED="1757319558952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/relitu" />
+    <SUITE FILE_PATH="coverage/nnUNet$SAR.coverage" NAME="SAR Coverage Results" MODIFIED="1749367248555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$xyznet.coverage" NAME="xyznet Coverage Results" MODIFIED="1744373842006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$task508_blood_vessel__1_.coverage" NAME="task508_blood vessel (1) 覆盖结果" MODIFIED="1722179973966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../env/nnunet/Lib/site-packages/nnunetv2/dataset_conversion" />
+    <SUITE FILE_PATH="coverage/nnUNet$niigz_normalization.coverage" NAME="niigz_normalization Coverage Results" MODIFIED="1742028000632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nnUNet$newzhibiao3.coverage" NAME="newzhibiao3 Coverage Results" MODIFIED="1749280276485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$model.coverage" NAME="model Coverage Results" MODIFIED="1744028713310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/swin_unet" />
+    <SUITE FILE_PATH="coverage/nnUNet$Task123_Axon.coverage" NAME="Task123_Axon Coverage Results" MODIFIED="1744099560566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nnunetv2_bak/dataset_conversion" />
+    <SUITE FILE_PATH="coverage/nnUNet$mayon.coverage" NAME="mayon Coverage Results" MODIFIED="1757641756311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nnUNet$convert_raw_dataset_from_old_nnunet_format.coverage" NAME="convert_raw_dataset_from_old_nnunet_format Coverage Results" MODIFIED="1743250577084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nnunetv2/dataset_conversion" />
+    <SUITE FILE_PATH="coverage/nnUNet$hd2.coverage" NAME="hd2 Coverage Results" MODIFIED="1749285869540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$baseline.coverage" NAME="baseline Coverage Results" MODIFIED="1748937700313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$Task456_fiber_bundle.coverage" NAME="Task456_fiber-bundle 覆盖结果" MODIFIED="1710406604743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nnunetv2/dataset_conversion" />
+    <SUITE FILE_PATH="coverage/nnUNet$newzhibiao2.coverage" NAME="newzhibiao2 Coverage Results" MODIFIED="1749280265839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/mayon_py$mayon.coverage" NAME="mayon Coverage Results" MODIFIED="1758527729253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$convert_raw_dataset_from_old_nnunet_format__1_.coverage" NAME="convert_raw_dataset_from_old_nnunet_format (1) Coverage Results" MODIFIED="1742528776326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../wfrenv/codeenv/Lib/site-packages/nnunetv2/dataset_conversion" />
+    <SUITE FILE_PATH="coverage/nnUNet$fenghe1.coverage" NAME="fenghe1 Coverage Results" MODIFIED="1743842875560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$zhibiao.coverage" NAME="zhibiao Coverage Results" MODIFIED="1748931343566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nnUNet$dlk.coverage" NAME="dlk Coverage Results" MODIFIED="1744030720961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$checknew.coverage" NAME="checknew Coverage Results" MODIFIED="1742524612766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nnUNet$zhibiao0821.coverage" NAME="zhibiao0821 Coverage Results" MODIFIED="1757588678748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$predict_from_raw_data___v8.coverage" NAME="predict_from_raw_data - v8 覆盖结果" MODIFIED="1740240293075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../env/nnunet/Lib/site-packages/nnunetv2/inference" />
+    <SUITE FILE_PATH="coverage/nnUNet$bdc.coverage" NAME="bdc Coverage Results" MODIFIED="1745917157779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$newzhibiao.coverage" NAME="newzhibiao Coverage Results" MODIFIED="1749279146404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$zhibiao0608.coverage" NAME="zhibiao0608 Coverage Results" MODIFIED="1756013227402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$hd.coverage" NAME="hd Coverage Results" MODIFIED="1749286340963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$run_training.coverage" NAME="run_training Coverage Results" MODIFIED="1741942616838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nnunetv2/run" />
+    <SUITE FILE_PATH="coverage/nnUNet$mhatonii.coverage" NAME="mhatonii Coverage Results" MODIFIED="1742027810466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../nnUNet-master" />
+    <SUITE FILE_PATH="coverage/nnUNet$hd1.coverage" NAME="hd1 Coverage Results" MODIFIED="1749286348500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$paths.coverage" NAME="paths Coverage Results" MODIFIED="1743421344404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2" />
+    <SUITE FILE_PATH="coverage/nnUNet$fenghe2light.coverage" NAME="fenghe2light Coverage Results" MODIFIED="1743676229422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$create_model.coverage" NAME="create_model Coverage Results" MODIFIED="1745842866648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/mayon_py$zhibiao0821.coverage" NAME="zhibiao0821 Coverage Results" MODIFIED="1758530571631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$snake.coverage" NAME="snake Coverage Results" MODIFIED="1742902802317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$022_Haar1Top.coverage" NAME="022 Haar小波下采样模块（1区Top） Coverage Results" MODIFIED="1757405215408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/nnUNet$swin3d.coverage" NAME="swin3d Coverage Results" MODIFIED="1744029132793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$rawnet______.coverage" NAME="rawnet - 副本 - 副本 Coverage Results" MODIFIED="1742992707013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$hd4.coverage" NAME="hd4 Coverage Results" MODIFIED="1749285900463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$SAR4.coverage" NAME="SAR4 Coverage Results" MODIFIED="1749354211095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/mayon_py$022_Haar1Top.coverage" NAME="022 Haar小波下采样模块（1区Top） Coverage Results" MODIFIED="1758530566371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/nnUNet$printmodel.coverage" NAME="printmodel Coverage Results" MODIFIED="1743773693020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nnUNet$swink_nogate.coverage" NAME="swink_nogate Coverage Results" MODIFIED="1744202717008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$newzhibiao4.coverage" NAME="newzhibiao4 Coverage Results" MODIFIED="1749280284648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$11.coverage" NAME="11 Coverage Results" MODIFIED="1743251141032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataset/nnUNet_raw" />
+    <SUITE FILE_PATH="coverage/nnUNet$fenghe3.coverage" NAME="fenghe3 Coverage Results" MODIFIED="1744036570709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$newzhibiao1.coverage" NAME="newzhibiao1 Coverage Results" MODIFIED="1749280257794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$predict_from_raw_data.coverage" NAME="predict_from_raw_data 覆盖结果" MODIFIED="1712649214274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../conda-env/nnunet/Lib/site-packages/nnunetv2/inference" />
+    <SUITE FILE_PATH="coverage/nnUNet$kannet.coverage" NAME="kannet Coverage Results" MODIFIED="1742913184903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$5_zhibiao.coverage" NAME="5_zhibiao Coverage Results" MODIFIED="1745840543517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nnUNet$swin.coverage" NAME="swin Coverage Results" MODIFIED="1757405227270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$rawlight.coverage" NAME="rawlight Coverage Results" MODIFIED="1745842524831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$111.coverage" NAME="111 Coverage Results" MODIFIED="1756707695119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nnUNet$Dataset120_RoadSegmentation.coverage" NAME="Dataset120_RoadSegmentation 覆盖结果" MODIFIED="1709976461582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nnunetv2/dataset_conversion" />
+    <SUITE FILE_PATH="coverage/nnUNet$SAR1.coverage" NAME="SAR1 Coverage Results" MODIFIED="1749359525156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$raw.coverage" NAME="raw Coverage Results" MODIFIED="1743842818346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$ffmca.coverage" NAME="ffmca Coverage Results" MODIFIED="1745746025300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$zhibiao2.coverage" NAME="zhibiao2 Coverage Results" MODIFIED="1749185932908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$SAR3.coverage" NAME="SAR3 Coverage Results" MODIFIED="1749359534901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$B.coverage" NAME="B Coverage Results" MODIFIED="1744462578124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$swink.coverage" NAME="swink Coverage Results" MODIFIED="1744199951635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$0000fix.coverage" NAME="0000fix Coverage Results" MODIFIED="1744204417627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nnUNet$nnUNetTrainer.coverage" NAME="nnUNetTrainer Coverage Results" MODIFIED="1741925664617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../wfrenv/newnnunet/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$SAR2.coverage" NAME="SAR2 Coverage Results" MODIFIED="1749359531969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$zhibiao3.coverage" NAME="zhibiao3 Coverage Results" MODIFIED="1746600430862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$checkinch.coverage" NAME="checkinch Coverage Results" MODIFIED="1742526051004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nnUNet$changename.coverage" NAME="changename Coverage Results" MODIFIED="1742713112571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/documentation" />
+    <SUITE FILE_PATH="coverage/nnUNet$kannet___.coverage" NAME="kannet - 副本 Coverage Results" MODIFIED="1742986378327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$hd3.coverage" NAME="hd3 Coverage Results" MODIFIED="1749285892571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$Task413_fiberbundle.coverage" NAME="Task413_fiberbundle 覆盖结果" MODIFIED="1713179481099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nnunetv2/dataset_conversion" />
+    <SUITE FILE_PATH="coverage/nnUNet$task508_blood_vessel.coverage" NAME="task508_blood vessel 覆盖结果" MODIFIED="1722176640585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nnunetv2/dataset_conversion" />
+    <SUITE FILE_PATH="coverage/nnUNet$rawdeep.coverage" NAME="rawdeep Coverage Results" MODIFIED="1743777829074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$jaccardzhibiao0821.coverage" NAME="jaccardzhibiao0821 Coverage Results" MODIFIED="1756378786412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$KAN.coverage" NAME="KAN Coverage Results" MODIFIED="1742910031746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/nnunetv2/training/nnUNetTrainer" />
+    <SUITE FILE_PATH="coverage/nnUNet$newzhibiao5.coverage" NAME="newzhibiao5 Coverage Results" MODIFIED="1749280295488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../wufengrui/wfrenv/codeenv/Lib/site-packages/nnunetv2/training/nnUNetTrainer" />
+  </component>
+</project>
