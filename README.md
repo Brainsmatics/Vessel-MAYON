@@ -9,7 +9,7 @@ Follow the official nnU-Net v2 installation guide:
 [https://github.com/MIC-DKFZ/nnUNet](https://github.com/MIC-DKFZ/nnUNet)
 Make sure the environment is properly set up and the dataset structure follows the nnU-Net requirements
 
-you can also follow reuqirement:
+You can also install the requirements with:
 ```bash
 pip install -r requirements.txt
 ```
