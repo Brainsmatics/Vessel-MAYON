@@ -5,6 +5,8 @@ Vessel-MAYON:A 3D Direction-Aware Deep Network for Intracranial Vessel Segmentat
 
 ## Installation
 
+All experiments were conducted in Python 3.9.21 with PyTorch 2.6.0.  
+
 Follow the official nnU-Net v2 installation guide:  
 [https://github.com/MIC-DKFZ/nnUNet](https://github.com/MIC-DKFZ/nnUNet)
 Make sure the environment is properly set up and the dataset structure follows the nnU-Net requirements
