@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 
 
-## Project Structure
+## Key Project Structure
 ```text
 Vessel-MAYON/
 ├── Vessel-MAYON/
