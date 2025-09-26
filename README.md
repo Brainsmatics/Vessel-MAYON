@@ -13,7 +13,7 @@ Make sure the environment is properly set up and the dataset structure follows t
 ## Project Structure
 ```text
 Vessel-MAYON/
-├── nnUNet/
+├── Vessel-MAYON/
 │   ├── dataset/
 │   │   ├── nnUNet_raw/           # Raw data
 │   │   ├── nnUNet_preprocessed/  # Preprocessed data
